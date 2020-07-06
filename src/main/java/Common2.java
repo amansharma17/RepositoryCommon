@@ -17,4 +17,12 @@ public class Common2{
     public void commonHelper24(){
         System.out.println("commonHelper24");
     }
+
+    public void commonHelper2441(){
+        System.out.println("commonHelper24");
+    }
+
+    public void commonHelper244(){
+        System.out.println("commonHelper24");
+    }
 }
