@@ -19,7 +19,7 @@ public class Common2{
     }
 
     public void commonHelper2441(){
-        System.out.println("commonHelper24");
+        System.out.println("commonHelper724");
     }
 
     public void commonHelper244(){
